@@ -1,7 +1,8 @@
 
 This is some sample using leaflet, I found them on web.
 
-これは web 上でみつけた　Leaflet を理用したページです。
+これは web 上でみつけた　Leaflet を利用したページを copy したものです。  
+javascript 部を coffeescript で書きなおしています。  
 
 - [google/main.html](google/main.html)  地図の表示  
 　　デモ： http://homepage2.nifty.com/youichi_kato/src/github/leaflet/google/main.html  
