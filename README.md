@@ -10,8 +10,8 @@ This is some sample using leaflet, I found them on web.
 - [Earthquake/main.html](Earthquake/main.html) 地震データの表示  
 　　デモ： http://homepage2.nifty.com/youichi_kato/src/github/leaflet/Earthquake/main.html  
 
-[![1](https://github.com/katoy/leaflet/screenshots/screen-01.png)]  
-[![2](https://github.com/katoy/leaflet/screenshots/screen-02.png)]  
-[![3](https://github.com/katoy/leaflet/screenshots/screen-03.png)]  
+[![1](https://raw.github.com/katoy/leaflet/master/screenshots/screen-01.png)]  
+[![2](https://raw.github.com/katoy/leaflet/master/screenshots/screen-02.png)]  
+[![3](https://raw.github.com/katoy/leaflet/master/screenshots/screen-03.png)]  
 
 
