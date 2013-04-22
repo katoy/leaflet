@@ -1,0 +1,32 @@
+html, body { 
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+#map { 
+    height: 365px;
+    width: 960px;
+    margin-bottom: 1em;
+}
+
+.leaflet-popup-content ul {
+    padding-left: 1.5em;
+}
+
+.circle {
+    visibility: hidden;
+}
+.circle.selected {
+    visibility: visible;
+}
+
+svg {
+    font: 10px sans-serif;
+}
+
+.axis path, .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
